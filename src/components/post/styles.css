@@ -1,0 +1,28 @@
+.post{
+ margin-top: 40px;
+}
+.container-description{
+    width: 30vw;
+    text-align: justify;
+    
+}
+.container-description h3{
+    color: black;    
+}
+.post-date{
+    font-size: 0.8rem;
+    margin-bottom: 15px;
+}
+.post-description{
+    margin-top: 15px;
+    color: rgba(0, 0, 0, 0.595);
+}
+
+.img-principal{
+    width: 500px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 5px;
+    box-shadow: 1px 0px 3px black;
+    
+}

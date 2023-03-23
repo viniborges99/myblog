@@ -1,0 +1,26 @@
+.navbar{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin: 20px 0px;
+}
+.nav-link{
+    color: rgba(0, 0, 0, 0.538);
+    margin: 0px 13px;
+    font-weight: 700;
+
+}
+.logo{
+    font-size: 1.7rem;
+    color: brown;
+}
+.nav-button{
+    width: 55px;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    height: 28px;
+    background-color: brown;
+    color: white;
+    box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.742);
+}
